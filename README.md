@@ -48,8 +48,8 @@ All insights were translated into interactive Power BI dashboards, providing:
  • Forecasted demand trends for the next 10 days
  • Inventory transfer flows between regions
  • Clear KPIs for executive decision-makers
-![Dashboard 1](images/Nupco Sens p1.png)
-![Dashboard 2](images/Nupco Sens p2.png)
+![Dashboard 1](images/Nupco%20Sens%20p1.png)
+![Dashboard 2](images/Nupco%20Sens%20p2.png)
 
  Tech Stack
  • Python
